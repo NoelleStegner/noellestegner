@@ -1,11 +1,11 @@
 {
-  "name": "Bootstrap Starter",
+  "name": "LI Bucketlist",
   "version": "1.0.0",
-  "description": "This is a base starter eleventy repository with Bootstrap 5.0",
+  "description": "Finding memorable unique dining across Long Island",
   "scripts": {
     "start": "eleventy --serve --quiet"
   },
-  "author": "Chris Stein",
+  "author": "Noelle Stegner",
   "devDependencies": {
     "@11ty/eleventy-navigation": "^0.1.4",
     "js-yaml": "^3.13.1",
