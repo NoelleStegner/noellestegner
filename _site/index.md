@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: LI Bucketlist
 date: Created
 layout: page
 tags:
@@ -11,7 +11,7 @@ tags:
 <div class="row">
   <div class="main-content col-lg-9">
     <header class="mb-4">
-      <h4 class="text-secondary mt-2 mb-0">Main Content</h4>
+      <h4 class="text-secondary mt-2 mb-0">Main Content</h4> 
     </header>
     <div class="row">
       <div class="col">
