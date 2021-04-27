@@ -8,6 +8,14 @@ tags:
   - info
 ---
 
+<h1> </h1>
+<ul>
+{%- for post in collections.post -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  <p>{{ post.data.summary}}</p>
+  </li>
+{%- endfor -%}
+</ul> 
 <div class="row">
   <div class="main-content col-lg-9">
     <header class="mb-4">
