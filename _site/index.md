@@ -14,26 +14,33 @@ tags:
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3" class=""></button>
     </div>
     <div class="carousel-inner">
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+     
+   <div class="carousel-item">
+      <img src="/images/pizza.jpg" class="img-fluid" alt="Responsive image"><rect width="100%" height="100%" fill="#777"></rect>
 
-   <div class="container">
+<div class="container">
           <div class="carousel-caption text-start">
             <h1>Best Pizza on Long Island</h1>
           </div>
         </div>
       </div>
-      <div class="carousel-item active">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
-
-   <div class="container">
+      
+  
+  
+  <div class="carousel-item active">
+       <img src="/images/outdoordining.jpeg" class="img-fluid" alt="Responsive image"><rect width="100%" height="100%" fill="#777"></rect>
+        
+ <div class="container">
           <div class="carousel-caption">
             <h1>Outdoor Dining</h1>
           </div>
         </div>
       </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"></rect></svg>
+      
+  
+  
+  <div class="carousel-item">
+        <img src="/images/diningonwater.jpeg" class="img-fluid" alt="Responsive image"><rect width="100%" height="100%" fill="#777"></rect>
 
    <div class="container">
           <div class="carousel-caption text-end">
@@ -42,6 +49,8 @@ tags:
         </div>
       </div>
     </div>
+ 
+ 
   <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -62,23 +71,27 @@ tags:
 <!-- Three columns of text below the carousel -->
   <div class="row">
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img square" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+         <img src="/images/amore-pizza.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="30%" fill="#777"></rect>
 
    <h2>Amore Pizza</h2>
         <h3> $ </h3>
         <p> Italian </p>
         <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  
+  
   </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+         <img src="/images/salted.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="50%" fill="#777"></rect>
 
    <h2>Salted. On The Harbor</h2>
         <h3>$$</h3>
    <p> Modern American </p>
         <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  
+  
   </div><!-- /.col-lg-4 -->
   <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+         <img src="/images/opus-steakhouse-.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="50%" fill="#777"></rect>
 
   <h2>Opus Steakhouse</h2>
   <h3>$$$</h3>
@@ -100,10 +113,7 @@ tags:
          </p>
       </div>
       <div class="col-md-5">
-        <svg class="longisland.jpeg" width="500" height="500" xmlns="https://smithlib.org/images/long_island_room/images/GreetingsFromLI-2.jpg" role="img" 
-        aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-        <title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" 
-        fill="#aaa" dy=".3em">500x500</text></svg>
+         <img src="/images/longisland.jpeg" class="img-fluid" alt="Responsive image"><rect width="100%" height="100%" fill="#777"></rect>
 
    </div>
     </div>
