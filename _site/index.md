@@ -120,5 +120,37 @@ tags:
 
    
   <!-- /END THE FEATURETTES -->
+  <!-- Three columns of text below the featurettes -->
+  <div class="row">
+      <div class="col-lg-4">
+         <img src="/images/lota-veco.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="30%" fill="#777"></rect>
+
+   <h2>Lota Veco</h2>
+        <h3> $ </h3>
+        <p> Mexican </p>
+        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  
+  
+  </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+         <img src="/images/2spring.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="50%" fill="#777"></rect>
+
+   <h2>2 Spring</h2>
+        <h3>$$</h3>
+   <p> Modern American </p>
+        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  
+  
+  </div><!-- /.col-lg-4 -->
+  <div class="col-lg-4">
+         <img src="/images/lakehouse.jpg" class="img-fluid" alt="Responsive image"><rect width="50%" height="50%" fill="#777"></rect>
+
+  <h2>The Lakehouse</h2>
+  <h3>$$$</h3>
+  <p> Seafood </p>
+  <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  </div><!-- /.col-lg-4 -->
+  </div><!-- /.row -->
+
 
   </div><!-- /.container -->
