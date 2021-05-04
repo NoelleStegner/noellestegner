@@ -1,14 +1,18 @@
 ---
-fullname: Jane Orkorafor
-age: 32
-pronouns: she/her
-location: NYC
+fullname: The Lakehouse
 layout: base
 tags:
-    - female
-    - NYC
-    - BMCC
+    - $$$
 ---
+<div class="row mb-3">
+      <div class="col-md-8 themed-grid-col">
+      <img src="/images/lakehouse.jpg" alt="image" width=100% height=100% >
+      </div>
 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quis dolore facere, error ducimus voluptatum nihil nobis eveniet modi asperiores itaque reiciendis expedita? Aspernatur incidunt soluta reiciendis dolorum, tempore totam.
+<div class="col-md-4 themed-grid-col">
+<h2> The Lakehouse </h2>
+<h3> $$$ </h3>
+<h4> 135 Maple Ave, Bay Shore </h4>
+<p> Modern American, On the Water </p>
+</div>
+</div>

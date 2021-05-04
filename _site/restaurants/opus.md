@@ -1,14 +1,19 @@
 ---
-fullname: Jane Orkorafor
-age: 32
-pronouns: she/her
-location: NYC
+fullname: Opus Steakhouse
 layout: base
 tags:
-    - female
-    - NYC
-    - BMCC
+    - $$$
 ---
 
+<div class="row mb-3">
+      <div class="col-md-8 themed-grid-col">
+      <img src="/images/opus-steakhouse-.jpg" alt="image" width=100% height=100% >
+      </div>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit quis dolore facere, error ducimus voluptatum nihil nobis eveniet modi asperiores itaque reiciendis expedita? Aspernatur incidunt soluta reiciendis dolorum, tempore totam.
+<div class="col-md-4 themed-grid-col">
+<h2> Opus Steakhouse </h2>
+<h3> $$$ </h3>
+<h4> 4 Old Jericho Tpke, Oyster Bay </h4>
+<p> Sushi, Modern American, Fine Dining, Private Parties </p>
+</div>
+</div>
