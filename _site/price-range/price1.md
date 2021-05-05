@@ -1,11 +1,109 @@
 ---
-title: Post Four
+title: $
 date: Created
 layout: base
 ---
+<div class="album py-5 bg-light">
+    <div class="container">
 
-# {{title}}
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/amore-pizza.jpg" alt="amore pizza">
 
-This is the fourth post.
+ <div class="card-body">
+              <h1> Amore Pizza </h1>
+              <p> Italian, East Northport </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/mbramen.jpg" alt="MB Ramen">
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore alias voluptas repudiandae optio enim quae dicta corrupti aliquam nulla expedita, ab autem iste quibusdam fugit laudantium unde consectetur reiciendis saepe.
+ <div class="card-body">
+              <h1> MB Ramen </h1>
+              <p> Ramen, Huntington </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/claudios.png" alt="Claudios">
+
+ <div class="card-body">
+              <h1> Claudios </h1>
+              <p> Seafood, Greenport </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/lota-veco.jpg" alt="Lota Veco">
+
+<div class="card-body">
+              <h1> Lota Veco </h1>
+              <p> Mexican, Northport </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+ <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/hawaiianbbq.jpg" alt="Hawaiian Kitchen">
+
+<div class="card-body">
+              <h1> Hawaiian Kitchen </h1>
+              <p> Hawaiian BBQ, Bethpage </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+           <img src="/images/duckdonuts.jpg" alt="Duck">
+
+ <div class="card-body">
+              <h1> Duck Donuts </h1>
+              <p> Breakfast/ Brunch, Hauppauge </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+ 
+ 
+</div>
+    </div>
+  </div>

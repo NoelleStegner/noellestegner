@@ -1,13 +1,110 @@
 ---
-title: Post Three
+title: $$$
 date: Created
 layout: base
-author: Jamie
-summary: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae mollitia, sapiente architecto sit quo deserunt libero nesciunt repellat praesentium. Autem nam obcaecati dolore incidunt possimus ullam quibusdam sunt deleniti aut."
+
 ---
+<div class="album py-5 bg-light">
+    <div class="container">
 
-# {{title}}
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/eatmosiac.jpg" alt="eatMOSIAC">
 
-This is the third post.
+ <div class="card-body">
+              <h1> eatMOSIAC </h1>
+              <p> Modern American, St James </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/mbramen.jpg" alt="MB Ramen">
 
-This post is missing tags. See if you can add tags to it, especially one that will allow it to appear in a collection with the other two posts.
+ <div class="card-body">
+              <h1> La Plage </h1>
+              <p> French Seafood, Wading River </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/maronis.jpg" alt="Maronis">
+
+ <div class="card-body">
+              <h1> Maronis </h1>
+              <p> Italian, Northport </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/opus-steakhouse-.jpg" alt="Opus">
+
+<div class="card-body">
+              <h1> Opus Steakhouse </h1>
+              <p> Sushi/ Steak, Oyster Bay </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+ <div class="col">
+          <div class="card shadow-sm">
+            <img src="/images/lakehouse.jpg" alt="Lakehouse">
+
+<div class="card-body">
+              <h1> The Lakehouse </h1>
+              <p> Modern American, Bay Shore </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+           <img src="/images/1770house.jpg" alt="1770house">
+
+ <div class="card-body">
+              <h1> 1770 House </h1>
+              <p> Contemporary American, East Hampton </p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">View</font></font></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+ 
+ 
+</div>
+    </div>
+  </div>

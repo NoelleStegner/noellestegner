@@ -13,6 +13,6 @@ tags:
 <h2> 1770 House </h2>
 <h3> $$$ </h3>
 <h4> 143 Main St, East Hampton </h4>
-<p> Contemporay American </p>
+<p> Contemporary American </p>
 </div>
 </div>
