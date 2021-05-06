@@ -10,10 +10,10 @@ layout: base
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img src="/images/eatmosiac.jpg" alt="eatMOSIAC">
+            <img src="/images/eatmosaic.jpg" alt="eatMOSIAC">
 
  <div class="card-body">
-              <h1> eatMOSIAC </h1>
+              <h1> eatMOSAIC </h1>
               <p> Modern American, St James </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -28,7 +28,7 @@ layout: base
         
 <div class="col">
           <div class="card shadow-sm">
-            <img src="/images/mbramen.jpg" alt="MB Ramen">
+            <img src="/images/laplage.jpg" alt="la plage">
 
  <div class="card-body">
               <h1> La Plage </h1>
