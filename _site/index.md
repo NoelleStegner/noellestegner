@@ -76,7 +76,7 @@ tags:
    <h2>Amore Pizza</h2>
         <h3> $ </h3>
         <p> Italian </p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+        <p><a class="btn btn-secondary" href="/restaurants/amore/">View More</a></p>
   
   
   </div><!-- /.col-lg-4 -->
@@ -86,7 +86,7 @@ tags:
    <h2>Salted. On The Harbor</h2>
         <h3>$$</h3>
    <p> Modern American </p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+        <p><a class="btn btn-secondary" href="/restaurants/saltedontheharbor/">View More</a></p>
   
   
   </div><!-- /.col-lg-4 -->
@@ -96,7 +96,7 @@ tags:
   <h2>Opus Steakhouse</h2>
   <h3>$$$</h3>
   <p> Sushi, Steakhouse </p>
-  <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  <p><a class="btn btn-secondary" href="/restaurants/opussteakhouse/">View More</a></p>
   </div><!-- /.col-lg-4 -->
   </div><!-- /.row -->
 
@@ -128,7 +128,7 @@ tags:
    <h2>Lota Veco</h2>
         <h3> $ </h3>
         <p> Mexican </p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+        <p><a class="btn btn-secondary" href="/restaurants/lotaveco/">View More</a></p>
   
   
   </div><!-- /.col-lg-4 -->
@@ -138,7 +138,7 @@ tags:
    <h2>2 Spring</h2>
         <h3>$$</h3>
    <p> Modern American </p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
+        <p><a class="btn btn-secondary" href="/restaurants/2spring/">View More</a></p>
   
   
   </div><!-- /.col-lg-4 -->
@@ -148,7 +148,7 @@ tags:
   <h2>The Lakehouse</h2>
   <h3>$$$</h3>
   <p> Seafood </p>
-  <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  <p><a class="btn btn-secondary" href="/restaurants/lakehouse/">View More</a></p>
   </div><!-- /.col-lg-4 -->
   </div><!-- /.row -->
 
