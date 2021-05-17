@@ -1,8 +1,9 @@
 {
-  "name": "LI Bucketlist",
+  "name": "libucketlist",
   "version": "1.0.0",
   "description": "Finding memorable unique dining across Long Island",
   "scripts": {
+    "build": "eleventy",
     "start": "eleventy --serve --quiet"
   },
   "author": "Noelle Stegner",
@@ -11,5 +12,8 @@
     "js-yaml": "^3.13.1",
     "luxon": "^1.22.0",
     "node-fetch": "^2.6.0"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
   }
 }
